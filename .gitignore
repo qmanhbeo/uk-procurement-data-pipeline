@@ -1,0 +1,30 @@
+# ---------------------------
+# Data outputs (DO NOT COMMIT)
+# ---------------------------
+raw_data/
+extracted_data/
+merged_data/
+
+# ---------------------------
+# Python junk
+# ---------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# ---------------------------
+# OS / editor noise
+# ---------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---------------------------
+# Large binaries
+# ---------------------------
+*.zip
+*.xlsx
+*.csv
